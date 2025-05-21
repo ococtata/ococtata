@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Octavius Sandriago</h2>
+<h1 align="center">Hi 👋, I'm Octavius Sandriago</h1>
 
 ###
 
-<h4 align="center">Laboratory Assistant at BINUS University</h4>
+<h2 align="center">Laboratory Assistant at BINUS University</h2>
 
 ###
 
@@ -66,8 +66,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ococtata/ococtata/output/snake.svg" alt="Snake animation" />
 
 ###
 
