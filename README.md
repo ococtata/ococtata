@@ -67,7 +67,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ococtata&theme=tokyonight&column=8&row=3&margin-w=10&margin-h=5&no-bg=false&no-frame=true&order=4" height="200" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ococtata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ococtata&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
